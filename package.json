@@ -43,7 +43,7 @@
     "@angular-devkit/core": "7.3.8",
     "@angular-devkit/schematics": "7.3.8",
     "@angular-devkit/schematics-cli": "0.13.8",
-    "@nestjs/schematics": "^6.8.2",
+    "@nestjs/schematics": "6.8.2",
     "@types/webpack": "4.41.3",
     "chalk": "2.4.2",
     "cli-table3": "0.5.1",
@@ -58,7 +58,7 @@
     "tree-kill": "1.2.2",
     "tsconfig-paths": "3.9.0",
     "tsconfig-paths-webpack-plugin": "3.2.0",
-    "typescript": "^3.6.4",
+    "typescript": "3.7.4",
     "webpack": "4.41.5",
     "webpack-node-externals": "1.7.2"
   },
